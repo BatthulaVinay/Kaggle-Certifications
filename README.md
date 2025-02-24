@@ -4,65 +4,25 @@ This repository showcases my Kaggle certifications in **Data Science, Machine Le
 
 ## 📜 Certifications  
 
-### 🎯 Intro to Programming  
-![Intro to Programming](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-programming.png)
+### 🎯 [Intro to Programming](https://www.kaggle.com/learn/certification/batthulavinay/intro-to-programming)  
 
-### 🐍 Python  
-![Python](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/python.png)
+### 🐍 [Python](https://www.kaggle.com/learn/certification/batthulavinay/python)  
 
-### 🤖 Intro to Machine Learning  
-![Intro to Machine Learning](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-machine-learning.png)
+### 🤖 [Intro to Machine Learning](https://www.kaggle.com/learn/certification/batthulavinay/intro-to-machine-learning)  
 
-### 📊 Data Visualization  
-![Data Visualization](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/data-visualization.png)
+### 📊 [Data Visualization](https://www.kaggle.com/learn/certification/batthulavinay/data-visualization)  
 
-### ⚡ Feature Engineering  
-![Feature Engineering](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/feature-engineering.png)
+### ⚡ [Feature Engineering](https://www.kaggle.com/learn/certification/batthulavinay/feature-engineering)  
 
-### 🗄️ Intro to SQL  
-![Intro to SQL](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-sql.png)
+### 🗄️ [Intro to SQL](https://www.kaggle.com/learn/certification/batthulavinay/intro-to-sql)  
 
-### 🧹 Data Cleaning  
-![Data Cleaning](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/data-cleaning.png)
+### 🧹 [Data Cleaning](https://www.kaggle.com/learn/certification/batthulavinay/data-cleaning)  
+
+---
 
 ## 🚀 About Me  
 I am passionate about **Data Science, Machine Learning, and AI**, and I actively participate in Kaggle competitions to enhance my skills.  
 
 🔗 **Connect with me:**  
-- Kaggle Profile: [@batthulavinay](https://www.kaggle.com/batthulavinay)
-
-
-  # 🏆 Kaggle Certifications  
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/learn/certification/batthulavinay/intro-to-programming">
-        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-programming.png" width="300">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.kaggle.com/learn/certification/batthulavinay/python">
-        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/python.png" width="300">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.kaggle.com/learn/certification/batthulavinay/intro-to-machine-learning">
-        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-machine-learning.png" width="300">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.kaggle.com/learn/certification/batthulavinay/data-visualization">
-        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/data-visualization.png" width="300">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-  
-
+- **Kaggle Profile:** [@batthulavinay](https://www.kaggle.com/batthulavinay)  
 
