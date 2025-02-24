@@ -1,21 +1,36 @@
 # 🏆 Kaggle Certifications  
 
-This repository showcases my completed Kaggle certifications in **Data Science, Machine Learning, SQL, and Python**.  
+This repository showcases my Kaggle certifications in **Data Science, Machine Learning, and AI**.
 
 ## 📜 Certifications  
 
-| Certification | Link |
-|--------------|------|
-| 🎯 Intro to Programming | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/intro-to-programming) |
-| 🐍 Python | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/python) |
-| 🤖 Intro to Machine Learning | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/intro-to-machine-learning) |
-| 📊 Data Visualization | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/data-visualization) |
-| ⚡ Feature Engineering | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/feature-engineering) |
-| 🗄️ Intro to SQL | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/intro-to-sql) |
-| 🧹 Data Cleaning | [View Certificate](https://www.kaggle.com/learn/certification/batthulavinay/data-cleaning) |
+### 🎯 Intro to Programming  
+![Intro to Programming](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-programming.png)
+
+### 🐍 Python  
+![Python](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/python.png)
+
+### 🤖 Intro to Machine Learning  
+![Intro to Machine Learning](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-machine-learning.png)
+
+### 📊 Data Visualization  
+![Data Visualization](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/data-visualization.png)
+
+### ⚡ Feature Engineering  
+![Feature Engineering](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/feature-engineering.png)
+
+### 🗄️ Intro to SQL  
+![Intro to SQL](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-sql.png)
+
+### 🧹 Data Cleaning  
+![Data Cleaning](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/data-cleaning.png)
 
 ## 🚀 About Me  
 I am passionate about **Data Science, Machine Learning, and AI**, and I actively participate in Kaggle competitions to enhance my skills.  
+
+🔗 **Connect with me:**  
+- Kaggle Profile: [@batthulavinay](https://www.kaggle.com/batthulavinay)  
+
 
   
 
