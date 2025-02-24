@@ -29,7 +29,38 @@ This repository showcases my Kaggle certifications in **Data Science, Machine Le
 I am passionate about **Data Science, Machine Learning, and AI**, and I actively participate in Kaggle competitions to enhance my skills.  
 
 🔗 **Connect with me:**  
-- Kaggle Profile: [@batthulavinay](https://www.kaggle.com/batthulavinay)  
+- Kaggle Profile: [@batthulavinay](https://www.kaggle.com/batthulavinay)
+
+
+  # 🏆 Kaggle Certifications  
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.kaggle.com/learn/certification/batthulavinay/intro-to-programming">
+        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-programming.png" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/learn/certification/batthulavinay/python">
+        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/python.png" width="300">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.kaggle.com/learn/certification/batthulavinay/intro-to-machine-learning">
+        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/intro-to-machine-learning.png" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.kaggle.com/learn/certification/batthulavinay/data-visualization">
+        <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/kaggle-certifications/main/data-visualization.png" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
   
