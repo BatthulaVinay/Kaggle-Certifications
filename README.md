@@ -1,6 +1,7 @@
 # 🏆 Kaggle Certifications  
 
-This repository showcases my Kaggle certifications in **Data Science, Machine Learning, and AI**.
+📌 Overview
+This repository showcases my Kaggle certifications and learning progress in data science, machine learning, and AI. Each certification represents my commitment to mastering key skills and applying them to real-world datasets.
 
 ## 📜 Certifications  
 
