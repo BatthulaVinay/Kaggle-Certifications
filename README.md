@@ -1,7 +1,7 @@
 # 🏆 Kaggle Certifications  
 
-📌 Overview
-This repository showcases my Kaggle certifications and learning progress in data science, machine learning, and AI. Each certification represents my commitment to mastering key skills and applying them to real-world datasets.
+📌 Overview  
+This repository showcases my Kaggle certifications and learning progress in data science, machine learning, and AI. Each certification represents my commitment to mastering key skills and applying them to real-world datasets.  
 
 ## 📜 Certifications  
 
@@ -19,7 +19,9 @@ This repository showcases my Kaggle certifications and learning progress in data
 
 ### 🧹 [Data Cleaning](https://www.kaggle.com/learn/certification/batthulavinay/data-cleaning)  
 
----
+### 📑 [Pandas](https://www.kaggle.com/learn/certification/batthulavinay/pandas)  
+
+---  
 
 ## 🚀 About Me  
 I am passionate about **Data Science, Machine Learning, and AI**, and I actively participate in Kaggle competitions to enhance my skills.  
