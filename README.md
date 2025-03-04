@@ -21,8 +21,5 @@ This repository showcases my Kaggle certifications and learning progress in **Da
 I am passionate about **Data Science, Machine Learning, and AI**, and I actively participate in **Kaggle competitions** to enhance my skills.  
 
 🔗 **Connect with me:**  
-- **Kaggle Profile:** [@batthulavinay](https://www.kaggle.com/batthulavinay)
-- 📊 **Kaggle** → [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/batthulavinay)  
-
 
 
